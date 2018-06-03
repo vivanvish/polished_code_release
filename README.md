@@ -17,8 +17,12 @@ The model uses **Fast Gradient Descent**, along with **Backtracking Line Search*
 
 ## Instructions
 Files:
+
   KernelSVM.py : Implementation of the Kernel SVM classifier. 
-  Example.py: Sample code on how to use the classifier.
+  
+  demo.py: Sample code on how to use the classifier.
+  
+  comparison.py: Comparing KernelSVM with sklearn's SVC.
   
 Feel free to use or distribute the code. The package can be used by:
 1. Clone the repository
